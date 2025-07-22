@@ -1,0 +1,11 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "a basic project",
+  "main": "0-implementingModulesInNode.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "a cool guy",
+  "license": "ISC"
+}
