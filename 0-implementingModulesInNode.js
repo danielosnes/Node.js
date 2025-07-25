@@ -135,7 +135,7 @@ When given a value in Celsius, it will return the value converted to Fahrenheit.
 Both input and output will be a number.
 
 - On the next line of code, celsiusInput is assigned process.argv[2].
-When a program is executed in the Node environement, [process.argv] is an array holding the arguments provided.
+When a program is executed in the Node environment, [process.argv] is an array holding the arguments provided.
 In this case, it looks like ['node', 'celsius-to-fahrenheit', '100'] so process.argv[2] returns 100.
 
 - Using this value and the function celsiusToFahrenheit(), the additional value fahrenheitValue is calculated.
